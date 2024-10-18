@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rohitsingh41342@gmail.com**
 
-- ⚡ Fun fact **I think I good in photography you can check my instagram😂**
+- ⚡ Fun fact **I think I am good in photography you can check my instagram😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
