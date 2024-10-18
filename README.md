@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ▀▄▀▄▀▄ 𝙍𝙊𝙃𝙄𝙏 𝙎𝙄𝙉𝙂𝙃 ▄▀▄▀▄▀</h1>
+<h1 align="center">Hi 👋, I'm  𝙍𝙊𝙃𝙄𝙏 𝙎𝙄𝙉𝙂𝙃 </h1>
 <h3 align="center">𝐀 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐟𝐫𝐨𝐦 𝐈𝐧𝐝𝐢𝐚.😎</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
